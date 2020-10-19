@@ -1,3 +1,13 @@
+## Screenshots
+
+ This is a single page Resume. 
+
+![](screenshots/Home.png)
+
+![](screenshots/Projects.png)
+
+![](screenshots/Inplant.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
