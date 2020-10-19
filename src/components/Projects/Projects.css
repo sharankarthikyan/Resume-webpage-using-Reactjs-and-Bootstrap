@@ -1,0 +1,21 @@
+.Projects {
+    width: 100%;
+    height: 792px;
+    background-color: #A9FBD7;
+}
+
+@media (max-width: 500px) {
+    .Projects {
+        width: 100%;
+        height: 1200px;
+        background-color: #A9FBD7;
+    }
+}
+
+@media (max-width: 1000px) {
+    .Projects {
+        width: 100%;
+        height: 1200px;
+        background-color: #A9FBD7;
+    }
+}
